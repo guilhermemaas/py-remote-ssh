@@ -126,7 +126,7 @@ servidores_remotos = [
         'nome_servidor': 'localhost',
         'endereco_servidor': 'localhost',
         'usuario': 'ilhanublar',
-        'senha': '431222',
+        'senha': '',
         'diretorio': '/tmp/arquivos/',
         'lista_arquivos_md5sum': [], #nome + md5
         'lista_arquivos_ultima_alteracao': [], #nome + data de ultima alteracao
